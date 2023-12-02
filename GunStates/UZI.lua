@@ -1,0 +1,20 @@
+return {
+	Damage = 12,
+	HeadDamage = 17,
+	MaxAmmo = 20, 
+	CurrentAmmo = 20, 
+	StoredAmmo = 600, 
+	FireRate = 0.1, 
+	AutoFire = true, 
+	Range = 600, 
+	Spread = 19, 
+	ReloadTime = 2, 
+	ShieldDamage = 4,
+	Bullets = 1, 
+	ReloadAnim = "ReloadMagazine", 
+	ShootAnim = "ShootBullet", 
+	HoldAnim = "Hold", 
+	FireSoundId = "http://www.roblox.com/asset/?id=6969459196", 
+	SecondarySoundId = nil, 
+	ReloadSoundId = "http://www.roblox.com/asset/?id=3603317633"
+}

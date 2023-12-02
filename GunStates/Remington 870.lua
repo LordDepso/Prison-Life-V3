@@ -1,0 +1,21 @@
+return {
+	DoesntUseMagazine = true,
+	Damage = 15,
+	Description = "Remington 870", 
+	MaxAmmo = 6, 
+	CurrentAmmo = 6, 
+	StoredAmmo = 600, 
+	FireRate = 0.8, 
+	AutoFire = false, 
+	ShieldDamage = 20,
+	Range = 400, 
+	Spread = 3, 
+	ReloadTime = 4, 
+	Bullets = 5, 
+	ReloadAnim = "ReloadShells", 
+	ShootAnim = "ShootShell", 
+	HoldAnim = "Hold", 
+	FireSoundId = "http://www.roblox.com/asset/?id=2934889760", 
+	SecondarySoundId = "http://www.roblox.com/asset/?id=14181689084", 
+	ReloadSoundId = "http://www.roblox.com/asset/?id=14181709668"
+}

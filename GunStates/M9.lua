@@ -1,0 +1,21 @@
+return {
+	Damage = 11, 
+	HeadDamage = 15,
+	Description = "M9", 
+	MaxAmmo = 15, 
+	CurrentAmmo = 15, 
+	StoredAmmo = 100, 
+	FireRate = 0.1, 
+	AutoFire = false, 
+	Range = 600, 
+	ShieldDamage = 3,
+	Spread = 11, 
+	ReloadTime = 2, 
+	Bullets = 1, 
+	ReloadAnim = "ReloadMagazine", 
+	ShootAnim = "ShootBullet", 
+	HoldAnim = "Hold", 
+	FireSoundId = "http://www.roblox.com/asset/?id=9092249384", 
+	SecondarySoundId = nil, 
+	ReloadSoundId = "http://www.roblox.com/asset/?id=138084889"
+}

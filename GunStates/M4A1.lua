@@ -1,0 +1,21 @@
+return {
+	Damage = 11, 
+	HeadDamage = 16.5,
+	Description = "M4A1", 
+	MaxAmmo = 30, 
+	CurrentAmmo = 30, 
+	StoredAmmo = 600, 
+	ShieldDamage = 10,
+	FireRate = 0.08, 
+	AutoFire = true, 
+	Range = 800, 
+	Spread = 18, 
+	ReloadTime = 2, 
+	Bullets = 1, 
+	ReloadAnim = "ReloadMagazine", 
+	ShootAnim = "ShootBullet", 
+	HoldAnim = "Hold", 
+	FireSoundId = "http://www.roblox.com/asset/?id=4902392197", 
+	SecondarySoundId = nil,
+	ReloadSoundId = "http://www.roblox.com/asset/?id=142491708"
+}
