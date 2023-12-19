@@ -6,6 +6,8 @@ https://www.roblox.com/games/9332885675/FIXED-Prison-Life-v3
 
 Please metion my Github (LordDepso) if you use any of my scripts, thank you.
 
+-- Shout to V10 and ProRBXs for snitching!!! --
+
 ----
 
 ### GunStates bypass (Rapid weapons)
